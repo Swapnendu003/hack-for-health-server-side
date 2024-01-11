@@ -5,7 +5,7 @@ This repository contains the server-side code for a ChatBot that incorporates Go
 
 ### Technologies Used:
 
-- **Google Generative AI:**
+- **Google Generative AI (GEMINI):**
   - Powering the main conversational model.
   - Utilized for generating responses based on user input.
   - Ensures a natural and context-aware conversation.
