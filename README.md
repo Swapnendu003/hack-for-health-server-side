@@ -1,7 +1,8 @@
-
+# Your Therapy - Mental Wellness Hub 🌈
+Empower your mental well-being with Your Therapy!
 ## ChatBot Backend Code with Generative AI and Sentiment Analysis
 
-This repository contains the server-side code for a ChatBot that incorporates Google's Generative AI, Distil BERT Language Model (LLM) for sentiment analysis, and Azure Language Translator for multilingual support. The ChatBot is designed to assist users in mental health-related queries and maintain a focus on topics related to well-being.
+This repository contains the server-side code for a ChatBot that incorporates Google's Generative AI, Distil BERT Language Model (LLM) for sentiment analysis, and Azure Language Translator for multilingual support. The ChatBot is designed to assist users with mental health-related queries and maintain a focus on topics related to well-being.
 
 ### Technologies Used:
 
